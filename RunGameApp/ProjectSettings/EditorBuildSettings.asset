@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScenes.unity
+    guid: e4b8703b602d044d4a6dfd5cea69f549
+  - enabled: 1
+    path: Assets/Scenes/EndlessGameScenes.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/EndlessGameOverScenes.unity
+    guid: 650862a6981a543f8adaecf6eb74086d
+  - enabled: 1
+    path: Assets/Scenes/RankingScenes.unity
+    guid: e05fb601b1caa1c468fd2d7fdfd6ccb4
+  - enabled: 1
+    path: Assets/Scenes/StageGameClearScenes.unity
+    guid: af437656e22958d42bb994505b55679b
+  - enabled: 1
+    path: Assets/Scenes/StageGameOverScenes.unity
+    guid: 764a71696b75b3042b18608bc4aeee88
+  - enabled: 1
+    path: Assets/Scenes/StageGameScenes.unity
+    guid: c89b87fb887a1044da3bf2a25c2913f6
+  - enabled: 1
+    path: Assets/Scenes/SkinScenes.unity
+    guid: da6c5b0de7cf54015acd54d888656290
+  - enabled: 1
+    path: Assets/Scenes/HelpScenes.unity
+    guid: 7e04ce994bf6b40a680efc97e2d6475a
+  m_configObjects: {}
